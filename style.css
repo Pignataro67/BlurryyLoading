@@ -54,3 +54,8 @@ body {
   width: 600px;
   height: 600px;
 }  
+
+.box {
+  background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+  background-repeat: no-repeat;
+}
