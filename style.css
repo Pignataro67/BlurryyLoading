@@ -49,3 +49,8 @@ body {
   width: 500px;
   position: relative;
 }
+
+.boxes.big {
+  width: 600px;
+  height: 600px;
+}  
