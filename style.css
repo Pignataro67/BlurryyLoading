@@ -65,3 +65,8 @@ body {
   width: 125px;
   transition: 0.4s ease;
 }
+
+.boxes.big {
+  width: 600px;
+  height: 600px;
+}
