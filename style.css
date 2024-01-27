@@ -76,7 +76,9 @@ body {
 }
 
 .box::after {
-    content: '';
-    background-color: #f6e58d;
-    position: absolute;
+  content: '';
+  background-color: #f6e58d;
+  position: absolute;
+  top: 8px;
+  right: -15px;
 }
