@@ -86,3 +86,7 @@ body {
   width: 15px;
   transform: skewY(45deg);
 }
+
+.box::before {
+    content: '';
+  }
