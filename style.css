@@ -27,4 +27,5 @@ body {
 .phone .content {
   opacity: 0;
   object-fit: cover;
+  position: absolute;
 }
