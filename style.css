@@ -46,3 +46,8 @@ nav {
   margin-top: -5px;
   width: 100%;
 }
+
+nav ul {
+  background-color: #fff;
+  display: flex;
+}
