@@ -54,4 +54,10 @@ img {
   color: #777;
   margin: 10px 0 20px;
 }
-  
+
+.profile-img {
+  border-radius: 50%;
+  overflow: hidden;
+  height: 40px;
+  width: 40px;
+}
