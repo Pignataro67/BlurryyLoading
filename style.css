@@ -87,6 +87,11 @@ img {
     animation: bgPos 1s linear infinite;
   }
 
+  .animated-bg-text {
+    border-radius: 50px;
+    display: inline-block;
+  }
+
   @keyframes bgPos {
     0% {
       background-position: 50% 0;
