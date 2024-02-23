@@ -30,3 +30,9 @@ body {
   justify-content: center;
   margin: 40px 0;
 }  
+
+.code {
+  caret-color: transparent;
+  border-radius: 5px;
+  font-size: 75px;
+}  
