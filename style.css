@@ -14,14 +14,13 @@ body {
   margin: 0;
 }
 
-
 .title {
-    margin: 10px 0 0;
-    text-align: center;
-  }
+  margin: 10px 0 0;
+  text-align: center;
+}
 
-  .cotainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.cotainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
