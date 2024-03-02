@@ -24,3 +24,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.container img {
+  object-fit: cover;
+  margin: 10px;
+}
