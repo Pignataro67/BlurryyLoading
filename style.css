@@ -28,4 +28,7 @@ body {
 .container img {
   object-fit: cover;
   margin: 10px;
+  height: 300px;
+  width: 300px;
+  max-width: 100%;
 }
