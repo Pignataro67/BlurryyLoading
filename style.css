@@ -11,13 +11,14 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  text-align: center;
 }
 
 a {
   color: #fff;
-}  
-
+} 
 
 h1 {
   line-height: 1.4;
 }
+
