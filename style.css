@@ -28,4 +28,5 @@ h1 {
   color: #516dff;
   padding: 15px 20px;
   font-family: inherit;
+  cursor: pointer;
 }
